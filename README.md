@@ -49,4 +49,5 @@ git clone https://github.com/SiyaHoyi19/ST10485019_PROG6221-PART2_CYBERSECURITY-
 4. Open `CybersecurityChatbot.sln`
 
 ### Step 3 - Add the greeting audio file
-- Place your `greeting.wav` file
+- Place your `greeting.wav` file in the following folder:
+CybersecurityChatbot/bin/Debug/net8.0-windows/greeting.wav
