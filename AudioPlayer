@@ -1,0 +1,4 @@
+// Commit:add AudioPlayer to play greeting WAV file on startup
+// Plays greeting.wav from the app's base directory
+// Optional callback to update UI status label
+ // Warn if audio file is missing but don't crash the app
