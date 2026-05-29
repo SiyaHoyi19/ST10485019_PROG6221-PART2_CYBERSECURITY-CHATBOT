@@ -78,7 +78,7 @@ CybersecurityChatbot/bin/Debug/net8.0-windows/greeting.wav
 
 ## Video Demo
 
-🎥 [Watch on YouTube](YOUR_YOUTUBE_LINK_HERE)
+🎥 [Watch on YouTube](https://youtu.be/44aAN67D9tE?si=258fMcsFw3ciH7ua)
 
 ---
 
