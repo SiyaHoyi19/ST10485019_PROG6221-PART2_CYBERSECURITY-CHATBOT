@@ -1,6 +1,6 @@
 # ST10485019_PROG6221 PART2_CYBERSECURITY CHATBOT
 
-A WPF-based Cybersecurity Awareness Chatbot built in C# that educates users 
+A WPF based Cybersecurity Awareness Chatbot built in C# that educates users 
 about online safety through interactive conversation.
 
 ## Student Information
@@ -25,7 +25,7 @@ about online safety through interactive conversation.
 - ✅ Sentiment detection (Worried, Curious, Frustrated, Happy, Neutral)
 - ✅ Memory store - remembers user name and favourite topic
 - ✅ Personalised responses using stored user information
-- ✅ "Tell me more" follow-up using last matched topic
+- ✅ "Tell me more" follow up using last matched topic
 - ✅ Special phrase handling: "how are you", "what can you do", "purpose"
 - ✅ Random fallback responses when no keyword matched
 
