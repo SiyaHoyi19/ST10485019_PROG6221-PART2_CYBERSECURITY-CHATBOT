@@ -1,0 +1,9 @@
+// Commit: feat: add User class for name storage and welcome message
+// Note: currently unused - MemoryStore handles username. 
+// Can be integrated later or removed.
+// Default name until user provides their own
+// Validates and sets the user's name from input
+// Returns a personalised welcome message
+
+
+
